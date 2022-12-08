@@ -1,7 +1,6 @@
 import os
 
 os.chdir('../Advent-Of-Code-2022/Day 1')
-print(os.getcwd())
 
 file = open("./d1_input.txt", "r")
 
